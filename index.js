@@ -2,7 +2,7 @@
 // List of sentences
 var _CONTENT = [
     "Hi, I'm Enyang Zhang.",
-    "I'm a Software Developer.",
+    "I'm a Software Engineer.",
     "I like to create things.",
 ];
 
